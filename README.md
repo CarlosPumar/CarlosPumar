@@ -1,4 +1,4 @@
 Hi 😄 
-I’m @CarlosPumar, frontend developer also interested in full stack development.
+I’m @CarlosPumar, a software engineer currently located in Madrid.
 
 Contact: cpjimenez123@gmail.com
