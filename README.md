@@ -1,4 +1,4 @@
 Hi 😄 
-I’m @CarlosPumar, a software engineer currently located in Madrid.
+I’m @CarlosPumar, a software engineer.
 
 Contact: cpjimenez123@gmail.com
